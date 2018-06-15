@@ -19,5 +19,12 @@
     "searchStrings": [
       "nomp"
     ]
+  },
+  {
+    "poolName": "ZergPool",
+    "url": "http://zerg.zergpool.com/",
+    "searchStrings": [
+      "zerg"
+    ]
   }
 ]
